@@ -17,6 +17,6 @@ def progressbar():
 if __name__ == '__main__':
     print(progressbar())
     print(get_date())
-    calculate_salary()
-    get_emloyees()
+    print(calculate_salary())
+    print(get_emloyees())
 
